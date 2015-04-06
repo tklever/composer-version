@@ -1,0 +1,7 @@
+[
+    {
+        "name": "testvendor/fake-package",
+        "version": "1.5.1",
+        "version_normalized": "1.5.1.0"
+    }
+]
